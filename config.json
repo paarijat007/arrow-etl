@@ -1,0 +1,8 @@
+{
+    "log_level": "INFO",
+    "max_concurrent_jobs": 5,
+    "enable_parallel": true,
+    "chunk_size": 1000,
+    "default_source_type": "MySQL",
+    "default_destination_type": "CSV"
+  }
